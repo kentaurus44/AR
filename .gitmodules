@@ -1,3 +1,9 @@
 [submodule "MainProject/Assets/ExternalModules"]
 	path = MainProject/Assets/ExternalModules
 	url = https://github.com/kentaurus44/ExternalModules.git
+[submodule "MainProject/Assets/Plugin"]
+	path = MainProject/Assets/Plugin
+	url = https://github.com/google-ar/arcore-unity-sdk.git
+[submodule "MainProject/Assets/Plugin/ARCore"]
+	path = MainProject/Assets/Plugin/ARCore
+	url = https://github.com/google-ar/arcore-unity-sdk.git
